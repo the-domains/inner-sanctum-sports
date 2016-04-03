@@ -1,0 +1,28 @@
+name: Inner Sanctum Sports
+favicon: null
+layout_spectrum: 0.48704564524814487
+typography_spectrum: 0.6866708740126342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6276131076738238
+  lightness: 0.9837440373376012
+  saturation: 0.8990411644335836
+  rhythmicContrast: 0.828289607539773
+purpose: []
