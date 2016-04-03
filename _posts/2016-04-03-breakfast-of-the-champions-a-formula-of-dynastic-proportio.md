@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: '"Breakfast of the Champions" a Formula of Dynastic Proportions.'
-datePublished: '2016-04-03T21:32:40.706Z'
-dateModified: '2016-04-03T21:32:33.259Z'
+datePublished: '2016-04-03T23:29:51.951Z'
+dateModified: '2016-04-03T21:38:32.322Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-03-breakfast-of-the-champions-a-formula-of-dynastic-proportio.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: breakfast-of-the-champions-a-formula-of-dynastic-proportio/index.html
-_type: WebPage
+_type: Article
 
 ---
 "Breakfast of the Champions" a Formula of Dynastic Proportions.
