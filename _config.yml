@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.8990411644335836
+  saturation: 0.9317043
   brandStrength: 0.6875
-  rhythmicContrast: 0.75
+  lightness: 0.8646616
   brandColors:
     - '#000000'
     - '#657990'
     - '#FCFBF2'
     - '#B4884B'
     - '#4B2703'
-  lightness: 0.9837440373376012
+  rhythmicContrast: 0.8421053
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Inner Sanctum Sports
 favicon: null
+name: Inner Sanctum Sports
 opengraph:
   image: null
   type: null
