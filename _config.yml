@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.8990411644335836
   brandStrength: 0.6875
-  lightness: 0.9837440373376012
+  rhythmicContrast: 0.75
   brandColors:
     - '#000000'
     - '#657990'
     - '#FCFBF2'
     - '#B4884B'
     - '#4B2703'
-  rhythmicContrast: 0.75
+  lightness: 0.9837440373376012
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Inner Sanctum Sports
 favicon: null
+name: Inner Sanctum Sports
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.57482
-layout_spectrum: 0.58114
+layout_spectrum: 0.2286967
